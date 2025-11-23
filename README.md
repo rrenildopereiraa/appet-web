@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/rrenildopereiraa/appet/blob/master/icon.ico" height="64" alt="Appet Logo">
 </p>
-<h3 align="center">Appet</h3>
+<h3 align="center">Appet MVC</h3>
 <p align="center">
   Manage your veterinary clinic efficiently with Appet.
   <br>
