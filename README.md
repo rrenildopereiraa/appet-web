@@ -19,7 +19,7 @@
 </p>
 
 ## Get started
-You can download the latest release from GitHub and run the application on your Windows machine:
+You can download the latest release from GitHub:
 
 ### Features
 - **Manage Clients**: It is possible to add, edit, and remove client data.
